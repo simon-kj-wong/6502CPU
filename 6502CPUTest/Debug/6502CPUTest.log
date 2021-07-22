@@ -1,0 +1,5 @@
+﻿  6502CPUTest.cpp
+C:\Users\Simon\source\repos\6502CPU\6502CPULib\main_6502.h(76,1): warning C4305: '=': truncation from 'int' to 'Byte'
+C:\Users\Simon\source\repos\6502CPU\6502CPULib\main_6502.h(76,14): warning C4309: '=': truncation of constant value
+C:\Users\Simon\source\repos\6502CPU\6502CPULib\main_6502.h(112,16): warning C4244: 'return': conversion from 'Word' to 'Byte', possible loss of data
+  6502CPUTest.vcxproj -> C:\Users\Simon\source\repos\6502CPU\Debug\6502CPUTest.exe
